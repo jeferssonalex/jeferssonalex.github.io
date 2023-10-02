@@ -20,11 +20,11 @@ Research Interests
 
 Education
 ------
-- Ph.D. in Computer Science, 2013
+# Ph.D. in Computer Science, 2013
   - Université de Cergy-Pontoise (ENSEA, France) & University of Campinas (Unicamp, Brazil)
-- M.Sc. in Computer Science, 2009
+# M.Sc. in Computer Science, 2009
   - University of Campinas (Unicamp, Brazil)
-- B.Sc. in Computer Science, 2006
+# B.Sc. in Computer Science, 2006
   - Universidade Estadual de Mato Grosso do Sul (UEMS, Brazil)
 
 
