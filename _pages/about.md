@@ -18,5 +18,11 @@ Research Interests
 - Image Processing
 - Remote Sensing
 
----
+Education
+------
+- Ph.D. in Computer Science, 2013
+  - Machine Learning
+  - Image Processing
+  - Remote Sensing
 
+---
