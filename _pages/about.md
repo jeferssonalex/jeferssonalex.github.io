@@ -11,6 +11,7 @@ redirect_from:
 My research balances both computational challenges and their applications. Besides always aiming at excellence and impacting results in Computer Science, I am especially interested in inter-, cross-, multidisciplinary research. I see the connection with other areas of knowledge as an opportunity to develop cutting-edge research with high possibilities for impacting directly on economic, social, and environmental aspects.
 
 ---
+
 Research Interests
 ------
 - Computer Vision
