@@ -21,8 +21,8 @@ Recent Outputs
 Current Activities and Services
 ------
 
-* Associate Editor of IEEE Geoscience and Remote Sensing Letters
-* Co-Chair of ISPRS WG II/4 - AI/ML for Geospatial Data
+* Associate Editor of [IEEE Geoscience and Remote Sensing Letters]('https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859')
+* Co-Chair of [ISPRS WG II/4 - AI/ML for Geospatial Data]('https://www2.isprs.org/commissions/comm2/wg4/')
 * Serrapilheira Institute Grantee – 4th call
 * Member of the Computer Vision Research Group at the University of Sheffield, UK
 * Head of Pattern Recognition and Earth Observation Laboratory at UFMG, Brazil
