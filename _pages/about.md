@@ -14,9 +14,12 @@ My research balances both computational challenges and their applications. Besid
 
 My research interests include computer vision, machine learning, image processing, and remote sensing.
 
-<pre>
-Prospective students: send me an email if you are interested in conducting and publishing research in the areas of computer vision, machine learning, image processing, or remote sensing.
-</pre>
+**Prospective students:** send me an email if you are interested in conducting research in these areas. Topics may include:
+* Out-of-Distribution (OOD) pixel detection and Open Set Recognition (OSR) for semantic segmentation
+* Synthetic data generation using deep generative models (e.g. GANs, VAEs, Normalizing Flows, etc) and graph-based algorithms
+* Interactive/Active/Online learning for large-scale semantic segmentation
+* Weakly-Supervised semantic segmentation
+* Data Fusion from multiple views (aerial, satellite and street-level) or multiple sensors (e.g. optical and radar)
   
 Recent Outputs
 ------
