@@ -14,6 +14,10 @@ My research balances both computational challenges and their applications. Besid
 
 My research interests include computer vision, machine learning, image processing, and remote sensing.
 
+<pre>
+Prospective students: send me an email if you are interested in conducting and publishing research in the areas of computer vision, machine learning, image processing, or remote sensing.
+</pre>
+  
 Recent Outputs
 ------
 
