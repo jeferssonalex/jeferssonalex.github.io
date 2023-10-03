@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am currently an Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom. He used to hold a position as Associate Professor at the Universidade Federal de Minas Gerais, Brazil (2013 - 2022).
+
 My research balances both computational challenges and their applications. Besides always aiming at excellence and impacting results in Computer Science, I am especially interested in inter-, cross-, multidisciplinary research. I see the connection with other areas of knowledge as an opportunity to develop cutting-edge research with high possibilities for impacting directly on economic, social, and environmental aspects.
+
+My research interests include computer vision, machine learning, image processing, and remote sensing.
 
 Recent Outputs
 ------
