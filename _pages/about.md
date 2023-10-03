@@ -25,12 +25,12 @@ Recent Outputs
 Current Activities and Services
 ------
 
-* Associate Editor of [IEEE Geoscience and Remote Sensing Letters]('https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859')
-* Co-Chair of [ISPRS WG II/4 - AI/ML for Geospatial Data]('https://www2.isprs.org/commissions/comm2/wg4/')
-* Serrapilheira Institute Grantee – [4th call]('https://serrapilheira.org/en/pesquisadores/jefersson-dos-santos/')
-* Member of the [Computer Vision Research Group]('https://www.sheffield.ac.uk/dcs/research/groups/computer-vision') at the University of Sheffield, UK
-* Founder Member of [Pattern Recognition and Earth Observation Laboratory]('http://patreo.dcc.ufmg.br/') at UFMG, Brazil
-* [MVEO Workshop]('https://mveo.github.io/') organizer at [BMVC 2023]('https://bmvc2023.org/')
+* Associate Editor of [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
+* Co-Chair of [ISPRS WG II/4 - AI/ML for Geospatial Data](https://www2.isprs.org/commissions/comm2/wg4/)
+* Serrapilheira Institute Grantee – [4th call](https://serrapilheira.org/en/pesquisadores/jefersson-dos-santos/)
+* Member of the [Computer Vision Research Group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at the University of Sheffield, UK
+* Founder Member of [Pattern Recognition and Earth Observation Laboratory](http://patreo.dcc.ufmg.br/) at UFMG, Brazil
+* [MVEO Workshop](https://mveo.github.io/) organizer at [BMVC 2023](https://bmvc2023.org/)
 
 ---
 
