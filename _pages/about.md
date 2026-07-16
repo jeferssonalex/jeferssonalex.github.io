@@ -32,7 +32,8 @@ Recent Outputs
 Current Activities and Services
 ------
 
-* Associate Editor of [IEEE Geoscience and Remote Sensing Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
+* Associate Editor for [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
+* Associate Editor for [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 * Co-Chair of [ISPRS WG II/4 - AI/ML for Geospatial Data](https://www2.isprs.org/commissions/comm2/wg4/)
 * Serrapilheira Institute Grantee – [4th call](https://serrapilheira.org/en/pesquisadores/jefersson-dos-santos/)
 * Member of the [Computer Vision Research Group](https://www.sheffield.ac.uk/dcs/research/groups/computer-vision) at the University of Sheffield, UK
