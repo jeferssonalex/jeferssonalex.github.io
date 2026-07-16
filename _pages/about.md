@@ -21,13 +21,14 @@ My research interests include computer vision, machine learning, image processin
 * Weakly-Supervised semantic segmentation
 * Data Fusion from multiple views (aerial, satellite and street-level) or multiple sensors (e.g. optical and radar)
   
-Recent Outputs
+<!--Recent Outputs
 ------
 
 * A systematic review on open-set segmentation, _Computers & Graphics_. [[link](https://doi.org/10.1016/j.cag.2023.06.026)]
 * Outlier Exposure for Open Set Crop Recognition From Multitemporal Image Sequences, _IEEE GRSL_. [[link](https://doi.org/10.1109/LGRS.2023.3244532)]
 * A New Similarity Space Tailored for Supervised Deep Metric Learning, ACM Transactions on Intelligent Systems and Technology. [[link](https://doi.org/10.1145/3559766)]
 * Weakly Supervised Few-Shot Segmentation Via Meta-Learning, IEEE Transactions on Multimedia. [[link](https://doi.org/10.1109/TMM.2022.3162951)]
+-->
 
 Current Activities and Services
 ------
