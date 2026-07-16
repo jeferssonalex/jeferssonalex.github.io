@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor (Lecturer) in Computer Vision at the University of Sheffield, United Kingdom. I used to hold a position as Associate Professor at the Universidade Federal de Minas Gerais, Brazil (2013 - 2022).
+I am a researcher in computer vision and geospatial AI, currently serving as an Assistant Professor (Lecturer) at the University of Sheffield in the United Kingdom. Before this, I was an Associate Professor at the Universidade Federal de Minas Gerais (UFMG), Brazil (2013–2022), where I conducted research that bridged methodological advances in computer vision and real-world applications.
 
 My research balances both computational challenges and their applications. Besides always aiming at excellence and impacting results in Computer Science, I am especially interested in inter-, cross-, multidisciplinary research. I see the connection with other areas of knowledge as an opportunity to develop cutting-edge research with high possibilities for impacting directly on economic, social, and environmental aspects.
 
 My research interests include computer vision, machine learning, image processing, and remote sensing.
 
+<!--
 **Prospective students:** send me an email if you are interested in conducting research in these areas. Topics may include:
 * Out-of-Distribution (OOD) pixel detection and Open Set Recognition (OSR) for semantic segmentation
 * Synthetic data generation using deep generative models (e.g. GANs, VAEs, Normalizing Flows, etc) and graph-based algorithms
 * Interactive/Active/Online learning for large-scale semantic segmentation
 * Weakly-Supervised semantic segmentation
 * Data Fusion from multiple views (aerial, satellite and street-level) or multiple sensors (e.g. optical and radar)
+-->
   
 <!--Recent Outputs
 ------
